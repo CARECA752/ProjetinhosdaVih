@@ -1,1 +1,1 @@
-# Logica
+# Logica Esse repositoria serve como uma oficina da "desgraça" local de testes de um aluno aprendiz quase analfabeto funcional<333
